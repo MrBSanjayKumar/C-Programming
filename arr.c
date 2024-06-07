@@ -23,6 +23,7 @@
 	int sum=0,i;
 	for (i=0;i<n;i++)
     {
+        
         sum += arr[i];
     }
         printf("\nsum :%d",sum);
